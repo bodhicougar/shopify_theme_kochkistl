@@ -1,0 +1,22 @@
+{
+  "name": "kochkistl",
+  "version": "1.0.0",
+  "description": "Das angepasste Kochkistl Simple theme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kochkistlSimple"
+  },
+  "keywords": [
+    "shopify",
+    "kochkistl",
+    "theme"
+  ],
+  "author": "Walter O. Achammer",
+  "license": "ISC"
+}
