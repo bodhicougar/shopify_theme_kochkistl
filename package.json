@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "Das angepasste Kochkistl Simple theme",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@shopify/themekit": "^1.1.6"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "kochkistlSimple"
+    "url": "https://github.com/bodhicougar/shopify_theme_kochkistl.git"
   },
   "keywords": [
     "shopify",
